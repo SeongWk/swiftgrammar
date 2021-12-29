@@ -35,3 +35,9 @@ datatype
   
 열거형
 - 연관된 항목들끼리 묶어 하는 형태: enum {  }
+
+
+조건문                      반복문         
+if -else.                 for-in
+switch                    while 
+
